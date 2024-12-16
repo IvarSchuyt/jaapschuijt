@@ -1,0 +1,40 @@
+:root {
+  --lightmode-text-color: #8a729c;
+  --lightmode-background-color: #f8f0ff;
+  --lightmode-accent-color: #e2bdff;
+  --card-border-radius: 0.5rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--lightmode-text-color);
+}
+
+body {
+  background-color: var(--lightmode-background-color);
+  padding: 1.5rem;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: "Asap-Black";
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Asap-Black";
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 300;
+}
