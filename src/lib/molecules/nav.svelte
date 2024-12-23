@@ -43,9 +43,9 @@
                 
         </summary>
         <ul>
-            <li><a href="/home">Home</a></li>
-            <li><a href="/archive">Archief</a></li>
-            <li><a href="/cv">CV</a></li>
+            <li><a href="/">Home</a></li>
+            <!-- <li><a href="/archive">Archief</a></li>
+            <li><a href="/cv">CV</a></li> -->
         </ul>
     </details>
 </nav>

@@ -1,5 +1,4 @@
 // Hier export je alle atoms ----------------------------------------------------------------------------------------------------------------
-export { default as Stars } from "./atoms/star.svelte";
 
 // Hier export je alle molecules ------------------------------------------------------------------------------------------------------------
 export { default as Footer } from "./molecules/footer.svelte";

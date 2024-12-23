@@ -1,7 +1,7 @@
 :root {
-  --lightmode-text-color: #8a729c;
-  --lightmode-background-color: #f8f0ff;
-  --lightmode-accent-color: #e2bdff;
+  --lightmode-text-color: black;
+  --lightmode-background-color: white;
+  --lightmode-accent-color: lightgray;
   --card-border-radius: 0.5rem;
 }
 
